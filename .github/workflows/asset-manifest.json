@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b81a783.css",
+    "main.js": "/static/js/main.89bb643d.js",
+    "static/media/felslogs.jpeg": "/static/media/felslogs.8524c523104eefdb7618.jpeg",
+    "static/media/menClothing3.jpg": "/static/media/menClothing3.c5034cc3119ca9c48a02.jpg",
+    "static/media/womenclothing3.jpg": "/static/media/womenclothing3.cd560ed2d0117e5e8876.jpg",
+    "static/media/gadgets4.jpg": "/static/media/gadgets4.1255212ac6c9286dcd64.jpg",
+    "static/media/gadgets2.jpg": "/static/media/gadgets2.c624913e385c99e62f84.jpg",
+    "static/media/womenclothing2.jpg": "/static/media/womenclothing2.c215ebbd89e2c427c7f8.jpg",
+    "static/media/gadgets3.jpg": "/static/media/gadgets3.6f41d32a8dd2db272b91.jpg",
+    "static/media/menClothing2.jpg": "/static/media/menClothing2.0d58923bb0ac1af9c68c.jpg",
+    "static/media/menClothing1.jpg": "/static/media/menClothing1.dc744a8287ee0dd35369.jpg",
+    "index.html": "/index.html",
+    "main.2b81a783.css.map": "/static/css/main.2b81a783.css.map",
+    "main.89bb643d.js.map": "/static/js/main.89bb643d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b81a783.css",
+    "static/js/main.89bb643d.js"
+  ]
+}
